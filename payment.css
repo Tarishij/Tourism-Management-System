@@ -1,0 +1,25 @@
+#frame{
+	border: solid gray 1px;
+	width : 40%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+	padding: 70px;
+}
+
+#btn{
+	background-color: #4CAF50;
+    color: white;
+	margin-top:10px;
+    padding:20px;
+	font-size:15px;
+	font-weight: bold;
+	cursor:pointer;
+    margin-left: 100px;
+}
+#select1{
+	margin-left: 50px;
+}
+#select2{
+	margin-left: 50px;
+}
